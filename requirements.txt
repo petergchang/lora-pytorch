@@ -1,0 +1,6 @@
+datasets
+optuna
+peft
+pytest
+torch
+transformers
